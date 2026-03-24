@@ -17,6 +17,7 @@ O estudo investiga a evolução da presença feminina nos cursos da área de com
 ---
 
 ## Estrutura do projeto
+```
 │
 ├── data
 │ ├── input # dados de entrada
@@ -28,7 +29,7 @@ O estudo investiga a evolução da presença feminina nos cursos da área de com
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
+```
 ---
 
 ## Dados de entrada
